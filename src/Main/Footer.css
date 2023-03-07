@@ -1,0 +1,7 @@
+.footer-main{
+    background:rgb(229, 126, 126);
+    min-height: 10vh;
+    /*flex: -10;*/
+    flex-shrink: 0;
+   
+}

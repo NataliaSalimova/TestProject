@@ -1,0 +1,38 @@
+.NewPerson{
+    background-color: white;
+    width: 40%;
+    margin:auto;
+    border:2px solid black;
+    border-radius: 20px;
+}
+.Come32{
+    margin: 5% 5% 0% 5%;
+    
+   
+}
+.Text2{
+    margin: 5% 0 5% 10%;
+    text-align: left;
+    font-size: 38px;
+}
+.ComeButton2{
+    width: 80%;
+    margin: 5% 10% 10% 10%;
+    border-radius: 30px;
+    padding: 2%;
+    background-color:  rgb(255, 255,0);
+    font-size: 18px;
+    font-weight: bold;
+    border: 0px;
+}
+.Input{
+    border-radius: 20px;
+    height: 45px;
+    width: 90%;
+    margin: auto;
+}
+.MyCloseBtn{
+    position: relative;
+    right: -85%;
+    top: 70px;
+}
